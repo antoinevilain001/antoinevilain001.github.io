@@ -81,10 +81,19 @@
 
 /* Buttons - Read Me, Contact Us */
 
+.loadmore {
+  background: #fff;
+  color: #000000;
+  font-weight: 400;
+  font-size: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
+  background: #ffffffcc;
   color: #2200ff;
   border: 2px solid #fff;
   font-weight: 600;
