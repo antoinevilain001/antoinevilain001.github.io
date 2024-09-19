@@ -1,6 +1,22 @@
 Antoine Vilain
 this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
+# Activity Screenshots
+Activity 1
+![Alt text](screenshots/activity1_repo.png?raw=true)
+Activity 2
+![Alt text](screenshots/activity2_website.png?raw=true)
+![Alt text](screenshots/activity2_repo.png?raw=true)
+Activity 3
+![Alt text](screenshots/activity3_website.png?raw=true)
+![Alt text](screenshots/activity3_repo.png?raw=true)
+Activity 4
+![Alt text](screenshots/activity4_website.png?raw=true)
+![Alt text](screenshots/activity4_repo.png?raw=true)
+Activity 5
+![Alt text](screenshots/activity5_website.png?raw=true)
+![Alt text](screenshots/activity5_repo.png?raw=true)
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
