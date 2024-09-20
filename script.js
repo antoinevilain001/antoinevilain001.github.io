@@ -19,7 +19,7 @@ const projectsArray = [
         description: "An image compression program based in C.",
         tools: "Django, HTML, CSS, Bootstrap, SQLite, Heroku",
         image: "/assets/img2/seam-carving.png",
-        date: new Date("2020-04-15")
+        date: new Date("2021-04-15")
     },
     {
         title: "Snake",
